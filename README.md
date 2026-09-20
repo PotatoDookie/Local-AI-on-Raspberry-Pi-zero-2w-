@@ -6,7 +6,7 @@ I am a 13 year old maker and I am trying to make a project in which I would run 
 | Item | Component | Qty | Unit Price (INR) | Total (INR) | Sourcing / Link |
 | :--- | :--- | :---: | :---: | :---: | :--- |
 | 1 | Raspberry Pi Zero 2 W | 1 | ₹1,709.00 | ₹1,709.00 | [Raspberry Pi Official](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) |
-| 2 | SanDisk Ultra 32GB MicroSD Card (UHS-I / Class 10) | 1 | ₹1,550.00 | ₹1,550.00 | [Robu.in](https://robu.in) |
+| 2 | SanDisk Ultra Go 32GB MicroSD Card (UHS-I / Class 10) | 1 | ₹1,550.00 | ₹1,550.00 | [Robu.in](https://robu.in/product/sandisk-ultra-go-micro-sdhc-32gb-uhs-i-120mbs-r-class-10-memory-card) |
 | **Total** | | | | **₹3,259.00** | *(~$39.00 USD)* |
 
 ### Procurement & Sourcing Notes
