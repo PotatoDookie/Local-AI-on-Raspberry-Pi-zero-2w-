@@ -14,4 +14,3 @@ I am a 13 year old maker and I am trying to make a project in which I would run 
 - **Storage:** MicroSD pricing accounts for genuine high-endurance Class 10 flash memory via domestic distributors inclusive of local GST.
 - **Peripherals:** Reusing personal workbench cables and power supplies to minimize BOM footprint.
 
-https://i.postimg.cc/pLvM5X4p/Screenshot-20260920-143543-2.jpg
